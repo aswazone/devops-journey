@@ -1,0 +1,3 @@
+[submodule "docker-journey"]
+	path = docker-journey
+	url = https://github.com/aswazone/docker-journey.git
