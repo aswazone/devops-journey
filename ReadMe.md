@@ -23,32 +23,31 @@ This repository documents my journey in mastering DevOps practices and technolog
 
 ## 🗂 Projects
 
-### 🚀 [DevOps Pipeline](./devops-pipeline/)
-**Status:** `In Progress` | **Difficulty:** `Intermediate`
+### 🐳 [Docker Journey](./docker-journey/)
+**Status:** `Active` | **Difficulty:** `Beginner to Advanced`
 
-Complete CI/CD pipeline implementations covering:
-- GitHub Actions workflows
-<!-- - Automated testing strategies
-- Deployment automation
-- Security scanning integration
-- Multi-environment deployments -->
+Comprehensive Docker containerization learning path:
+- Container fundamentals
+- Multi-stage builds
+- Docker Compose orchestration
+- Security best practices
+- Production deployments
 
-**Tech Stack:** GitHub Actions, Docker, Kubernetes,
+**Tech Stack:** Docker, Docker Compose
 
 ---
-
 
 ## 🛠 Technologies Used
 
 <div align="center">
 
-<!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
-<!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<!-- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) -->
-<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
-<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
 </div>
 
