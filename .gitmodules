@@ -1,3 +1,9 @@
 [submodule "docker-journey"]
 	path = docker-journey
 	url = https://github.com/aswazone/docker-journey.git
+[submodule "CI/CD-pipeline"]
+	path = CI/CD-pipeline
+	url = https://github.com/aswazone/devops-pipeline.git
+[submodule "CI-CD-journey"]
+	path = CI-CD-journey
+	url = https://github.com/aswazone/devops-pipeline.git
