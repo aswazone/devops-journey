@@ -37,6 +37,20 @@ Comprehensive Docker containerization learning path:
 
 ---
 
+### 🚀 [DevOps Pipeline](./devops-pipeline/)
+**Status:** `In Progress` | **Difficulty:** `Intermediate`
+
+Complete CI/CD pipeline implementations covering:
+- GitHub Actions workflows
+- Automated testing strategies
+- Deployment automation
+- Security scanning integration
+- Multi-environment deployments
+
+**Tech Stack:** GitHub Actions, Docker, Kubernetes, Terraform
+
+---
+
 ## 🛠 Technologies Used
 
 <div align="center">
