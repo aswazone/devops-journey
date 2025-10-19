@@ -4,3 +4,6 @@
 [submodule "CI-CD-journey"]
 	path = CI-CD-journey
 	url = https://github.com/aswazone/devops-pipeline.git
+[submodule "kubernetes-journey"]
+	path = kubernetes-journey
+	url = https://github.com/aswazone/kubernetes-journey.git
