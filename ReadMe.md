@@ -50,6 +50,19 @@ Complete CI/CD pipeline implementations covering:
 **Tech Stack:** GitHub Actions, Docker, Kubernetes, Terraform
 
 ---
+### ☸️ [Kubernetes Journey](./kubernetes-journey/)
+**Status:** `Planned / In Progress` | **Difficulty:** `Intermediate to Advanced`
+
+A practical path to learning Kubernetes and deploying containerized applications:
+- Kubernetes fundamentals (Pods, Deployments, Services)
+- Local clusters (minikube, kind)
+- Manifests, ConfigMaps, Secrets, PersistentVolumes
+- Ingress, Helm charts, and deployment strategies
+- CI/CD integration for automated image build & deploy
+
+**Tech Stack:** Kubernetes, kubectl, Helm, Kustomize, container registries
+
+---
 
 ## 🛠 Technologies Used
 
